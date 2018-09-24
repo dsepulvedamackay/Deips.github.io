@@ -1,0 +1,124 @@
+body{
+	margin: 0px;
+	font-family: "roboto";
+}
+
+
+ul{
+	list-style-type: none;
+	display: inline-flex;
+	position: fixed;
+	margin: 0%;
+	padding: 0%;
+	background-color:rgb(42,32,76);
+	width: 100%;
+	height: 4vw;
+	text-decoration: none;
+
+}
+
+.nav{
+	background-color:rgb(42,32,76);
+    color: rgb(255, 0, 255);
+	font-weight: lighter;
+	font-size: 1.5vw;
+	display: inline-flex;
+	text-decoration: none;
+	margin-left: 2vw;
+	margin-top: 1vw;
+	margin-right: 1vw;
+
+}
+
+.nav:hover{	
+    font-size: 1.51vw;
+    color: rgb(255, 0, 255);
+}
+
+
+
+
+#navDer{
+	background-color:rgb(42,32,76);
+	color:white;
+	font-weight: lighter;
+	font-size: 1.5vw;
+	display: inline-flex;
+	text-decoration: none;
+	margin-left: 1.7vw;
+	margin-top: 1vw;
+}
+#navIz{
+	background-color:rgb(42,32,76);
+	color:white;
+	font-weight: lighter;
+	font-size: 1.5vw;
+	display: inline-flex;
+	text-decoration: none;
+	margin-left: 45vw;
+	margin-right: 1vw;
+	margin-top: 1vw;
+
+}
+#navIz:hover{	
+    font-size: 1.51vw;
+    color: rgb(255, 0, 255);
+}
+
+
+#navDer:hover{	
+    font-size: 1.51vw;
+    color: rgb(255, 0, 255);
+}
+
+.logo{
+	height: 3vw;
+	width: 3vw;
+	margin-top: 0.7vw;
+	margin-left: 3vw;
+	margin-right: 17vw;
+
+}
+
+#titulo{
+	color:white;
+	font-size: 4vw;
+	font-weight: 200;
+	display: inline-block;
+	margin-left: 30vw;
+	margin-top: 8vw;
+	margin-bottom: 0;
+	text-align: center;
+
+}
+
+
+#cabecera{
+	background-image: url(../img/4927841.png);
+	background-size: cover;
+	background-attachment: fixed;
+	height: 70vw; 
+}
+ #galeria{
+	padding-left:5vw;
+	padding-right:5vw;
+	padding-top: 5vw;
+
+ }
+
+#imgDer{
+	display: inline-flex;
+	background-color: aliceblue;
+	margin-bottom: 1vw;
+	margin-left: 1vw;
+
+}
+.img{
+	background-color: aliceblue;
+	max-width: 22vw;
+	margin-left: 1vw;
+	margin-bottom: 1vw;
+
+}
+
+
